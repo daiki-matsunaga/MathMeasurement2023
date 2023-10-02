@@ -1,0 +1,4 @@
+- Open correlation.ipynb: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/daiki-matsunaga/MathMeasurement2023/blob/main/lec01/correlation.ipynb)
+- Open autocorrel.ipynb: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/daiki-matsunaga/MathMeasurement2023/blob/main/lec01/autocorrel.ipynb)
+- Open crosscorrel_1.ipynb: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/daiki-matsunaga/MathMeasurement2023/blob/main/lec01/crosscorrel_1.ipynb)
+- Open crosscorrel_2.ipynb: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/daiki-matsunaga/MathMeasurement2023/blob/main/lec01/crosscorrel_2.ipynb)
