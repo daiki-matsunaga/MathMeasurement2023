@@ -1,0 +1,5 @@
+- Open 3.1_toyNeuralNetwork.ipynb: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/daiki-matsunaga/MathMeasurement2023/blob/main/lec03/3.1_toyNeuralNetwork.ipynb)
+- Open 3.1B_toyNeuralNetwork.ipynb: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/daiki-matsunaga/MathMeasurement2023/blob/main/lec03/3.1B_toyNeuralNetwork.ipynb)
+- Open 3.2_zeroHidenLayer.ipynb: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/daiki-matsunaga/MathMeasurement2023/blob/main/lec03/3.2_zeroHiddenLayer.ipynb)
+- Open 3.3_oneHidenLayer.ipynb: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/daiki-matsunaga/MathMeasurement2023/blob/main/lec03/3.3_oneHiddenLayer.ipynb)
+- Open 3.4_twoHidenLayer.ipynb: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/daiki-matsunaga/MathMeasurement2023/blob/main/lec03/3.4_twoHiddenLayer.ipynb)
