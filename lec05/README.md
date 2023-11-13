@@ -1,0 +1,3 @@
+- Open 1_randomWalk.ipynb: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/daiki-matsunaga/MathMeasurement2022/blob/main/lec05/1_randomWalk.ipynb)
+- Open 2_randomWalkGrid.ipynb: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/daiki-matsunaga/MathMeasurement2022/blob/main/lec05/2_randomWalkGrid.ipynb)
+- Open 3_MSD_scaling.ipynb: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/daiki-matsunaga/MathMeasurement2022/blob/main/lec05/3_MSD_scaling.ipynb)
