@@ -1,0 +1,1 @@
+- Open pca.ipynb: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/daiki-matsunaga/MathMeasurement2023/blob/main/lec06/pca.ipynb)
